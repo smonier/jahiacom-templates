@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework:spring-orm:3.2.13.RELEASE_OSGI2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-orm/3.2.13.RELEASE_OSGI2/spring-orm-3.2.13.RELEASE_OSGI2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-orm/3.2.13.RELEASE_OSGI2/spring-orm-3.2.13.RELEASE_OSGI2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-orm/3.2.13.RELEASE_OSGI2/spring-orm-3.2.13.RELEASE_OSGI2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
